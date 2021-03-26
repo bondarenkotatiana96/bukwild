@@ -10,7 +10,6 @@ class Routes extends Component {
     render() {
       return (
         <Switch>
-            <Route path="/" component={Industries} />
             <Route path="/industries" component={Industries} />
             <Route path="/services" component={Services} />
             <Route path="/about-us" component={AboutUs} />
