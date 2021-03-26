@@ -41,7 +41,8 @@ const styles = {
 
         [sizes.down("sm")]: {
           fontSize: "4.5rem",
-          minHeight: "12rem"
+          minHeight: "12rem",
+          width: "80%"
         },
 
         [sizes.down("xs")]: {
